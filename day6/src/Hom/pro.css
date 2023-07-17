@@ -1,0 +1,132 @@
+section {
+  background-color: #eee;
+}
+
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
+.text-muted {
+  color: #6c757d !important;
+}
+
+.rounded-circle {
+  border-radius: 50%;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.mb-1 {
+  margin-bottom: 0.25rem !important;
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem !important;
+}
+
+.mb-4 {
+  margin-bottom: 1rem !important;
+}
+
+.mb-lg-0 {
+  margin-bottom: 0 !important;
+}
+
+.p-0 {
+  padding: 0 !important;
+}
+
+.p-3 {
+  padding: 0.75rem !important;
+}
+
+.mt-4 {
+  margin-top: 1rem !important;
+}
+
+.mt-4,
+.my-4 {
+  margin-top: 1.5rem !important;
+}
+
+.font-italic {
+  font-style: italic !important;
+}
+
+.text-primary {
+  color: #0d6efd !important;
+}
+
+.rounded {
+  border-radius: 0.25rem !important;
+}
+
+.valuemin-0 {
+  --valuemin: 0;
+}
+
+.valuemax-100 {
+  --valuemax: 100;
+}
+
+.mt-md-0 {
+  margin-top: 0 !important;
+}
+
+.mt-md-4 {
+  margin-top: 1.5rem !important;
+}
+
+.mb-md-0 {
+  margin-bottom: 0 !important;
+}
+
+.text-warning {
+  color: #ffc107 !important;
+}
+
+.text-primary {
+  color: #0d6efd !important;
+}
+
+.text-primary {
+  color: #0d6efd !important;
+}
+
+.text-primary {
+  color: #0d6efd !important;
+}
+
+.text-primary {
+  color: #0d6efd !important;
+}
+
+.text-primary {
+  color: #0d6efd !important;
+}
+
+.fa-lg {
+  font-size: 1.3333333333em !important;
+}
+
+.fa-lg {
+  font-size: 1.3333333333em !important;
+}
+
+.fa-lg {
+  font-size: 1.3333333333em !important;
+}
+
+.fa-lg {
+  font-size: 1.3333333333em !important;
+}
+
+.fa-lg {
+  font-size: 1.3333333333em !important;
+}
+
+.fa-lg {
+  font-size: 1.3333333333em !important;
+}
