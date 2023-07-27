@@ -1,0 +1,94 @@
+/* get.css */
+
+/* Apply basic styles to the body */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background-color: #f7f7f7;
+}
+
+/* Navbar styles */
+.navbar {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+/* Portfolio container styles */
+.geet {
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  max-width: 800px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+/* Portfolio title styles */
+.geet h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Details container styles */
+.details-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+/* Sections styles */
+.nam,
+.contact,
+.project,
+.skill,
+.college,
+.b {
+  flex: 1;
+  margin: 10px;
+  padding: 20px;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
+
+/* Section heading styles */
+.nam h3,
+.contact h3,
+.project h3,
+.skill h3,
+.college h3,
+.b {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+/* Button styles */
+button {
+  margin: 10px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+/* Make the buttons wider */
+.buttons-container button {
+  width: 150px;
+}
